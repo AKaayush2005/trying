@@ -135,7 +135,7 @@ const crops = [
     },
     {
         name: "Okra (Ladyfinger)",
-        emoji: "🌶️",
+        emoji: " ",
         sow: "Feb–June",
         transplant: "No transplant", 
         harvest: "June–August",
@@ -183,7 +183,7 @@ const crops = [
     },
     {
         name: "Radish",
-        emoji: "🔴",
+        emoji: "🫜",
         sow: "Sept–Feb",
         transplant: "No transplant",
         harvest: "Nov–March", 
