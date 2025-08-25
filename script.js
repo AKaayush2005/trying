@@ -77,7 +77,6 @@ const moods = {
         nutrients: ["Tryptophan", "B6/B12", "Complex carbs"],
         foods: ["Bananas", "Oats", "Turkey", "Leafy greens", "Legumes", "Sweet potato"],
         teas: [
-            { name: "Wort Tea", benefit: "Natural mood lifter (avoid if on meds)", emoji: "🌞" },
             { name: "Lemon Balm Tea", benefit: "Gentle uplift, reduces anxiety", emoji: "🍋🌿" }
         ]
     },
